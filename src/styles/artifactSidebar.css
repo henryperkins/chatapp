@@ -1,0 +1,26 @@
+.artifact-sidebar {
+  width: 250px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #f4f4f9;
+  padding: 10px;
+  overflow-y: auto;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.artifact {
+  margin-bottom: 15px;
+}
+
+.artifact button {
+  margin-right: 5px;
+}
+
+.artifact-detail {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
